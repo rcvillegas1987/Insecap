@@ -15,6 +15,7 @@ namespace Project_Insecap.App_Start
             bundles.Add(new StyleBundle("~/bundles/css")
                 .Include("~/Content/vendors/ti-icons/css/themify-icons.css",
                 "~/Content/vendors/css/vendor.bundle.base.css",
+                "~/Content/vendors/iconfonts/mdi/font/css/materialdesignicons.min.css",
                 "~/Content/css/vertical-layout-light/style.css"));
             bundles.Add(new ScriptBundle("~/bundles/js")
                 .Include("~/Content/vendors/js/vendor.bundle.base.js",

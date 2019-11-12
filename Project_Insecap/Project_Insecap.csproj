@@ -1562,6 +1562,7 @@
     <Content Include="Content\vendors\typeahead.js\typeahead.bundle.min.js" />
     <Content Include="Content\vendors\x-editable\bootstrap-editable.css" />
     <Content Include="Content\vendors\x-editable\bootstrap-editable.min.js" />
+    <Content Include="fonts\themify.svg" />
     <Content Include="Global.asax" />
     <Content Include="Web.config" />
   </ItemGroup>
@@ -1885,6 +1886,9 @@
     <Content Include="Content\vendors\tinymce\skins\ui\oxide-dark\tinymce-mobile.woff" />
     <Content Include="Content\vendors\tinymce\skins\ui\oxide\fonts\tinymce-mobile.woff" />
     <Content Include="Content\vendors\tinymce\skins\ui\oxide\tinymce-mobile.woff" />
+    <Content Include="fonts\themify.eot" />
+    <Content Include="fonts\themify.ttf" />
+    <Content Include="fonts\themify.woff" />
     <None Include="packages.config" />
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Shared\_Layout.cshtml" />
